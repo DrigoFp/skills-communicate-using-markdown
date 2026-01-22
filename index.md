@@ -1,1 +1,3 @@
 # Este é meu repositório.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
